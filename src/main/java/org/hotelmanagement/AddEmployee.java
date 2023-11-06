@@ -180,9 +180,9 @@ public class AddEmployee extends JFrame implements ActionListener {
     }
 
 
-    public static void main(String[] args) {
-        new AddEmployee();
-
-    }
+//    public static void main(String[] args) {
+//        new AddEmployee();
+//
+//    }
 }
 

@@ -7,9 +7,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
 public class ManagerInfo extends JFrame implements ActionListener {
-
     JTable table;
-
     JButton back;
     ManagerInfo(){
         getContentPane().setBackground(Color.white);
@@ -78,7 +76,6 @@ public class ManagerInfo extends JFrame implements ActionListener {
     }
 
     public void actionPerformed(ActionEvent ae){
-
         setVisible(false);
         new Reception();
     }

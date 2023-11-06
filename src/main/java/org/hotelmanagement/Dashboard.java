@@ -76,4 +76,8 @@ public class Dashboard extends JFrame implements ActionListener {
             new Reception();
         }
     }
+
+//    public static void main(String[] args) {
+//
+//    }
 }

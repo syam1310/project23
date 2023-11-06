@@ -87,7 +87,7 @@ public class EmployeeInfo extends JFrame implements ActionListener {
         setVisible(false);
         new Reception();
     }
-    public static void main (String[]args){
-        new EmployeeInfo();
-    }
+//    public static void main (String[]args){
+//        new EmployeeInfo();
+//    }
 }

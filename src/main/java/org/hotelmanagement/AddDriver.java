@@ -155,8 +155,8 @@ public class AddDriver extends JFrame implements ActionListener {
         }
     }
 
-    public static void main(String[] args) {
-        new AddDriver();
-
-    }
+//    public static void main(String[] args) {
+//        new AddDriver();
+//
+//    }
 }

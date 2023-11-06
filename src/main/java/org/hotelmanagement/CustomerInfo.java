@@ -82,8 +82,4 @@ public class CustomerInfo extends JFrame implements ActionListener {
         setVisible(false);
         new Reception();
     }
-
-//    public static void main(String[] args) {
-//        new CustomerInfo();
-//    }
 }

@@ -74,7 +74,7 @@ public class Room extends JFrame implements ActionListener {
         setVisible(false);
         new Reception();
     }
-    public static void main (String[]args){
-        new Room();
-    }
+//    public static void main (String[]args){
+//        new Room();
+//    }
 }

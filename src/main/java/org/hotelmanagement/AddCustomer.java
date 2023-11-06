@@ -163,7 +163,7 @@ public class AddCustomer extends JFrame implements ActionListener {
         }
     }
 
-    public static void main(String[] args) {
-        new AddCustomer();
-    }
+//    public static void main(String[] args) {
+//        new AddCustomer();
+//    }
 }

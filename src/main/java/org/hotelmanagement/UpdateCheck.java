@@ -192,7 +192,7 @@ public class UpdateCheck extends JFrame implements ActionListener {
 
     }
 
-    public static void main(String[] args) {
-        new UpdateCheck();
-    }
+//    public static void main(String[] args) {
+//        new UpdateCheck();
+//    }
 }

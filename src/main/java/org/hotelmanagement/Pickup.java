@@ -134,8 +134,8 @@ public class Pickup extends JFrame implements ActionListener {
 
     }
 
-    public static void main(String[] args) {
-        new Pickup();
-    }
+//    public static void main(String[] args) {
+//        new Pickup();
+//    }
 }
 

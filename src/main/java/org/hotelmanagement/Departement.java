@@ -56,7 +56,7 @@ public class Departement extends JFrame implements ActionListener {
         setVisible(false);
         new Reception();
     }
-    public static void main (String[]args){
-        new Departement();
-    }
+//    public static void main (String[]args){
+//        new Departement();
+//    }
 }

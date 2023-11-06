@@ -142,7 +142,7 @@ public class Checkout extends JFrame implements ActionListener {
         }
     }
 
-    public static void main(String[] args) {
-        new Checkout();
-    }
+//    public static void main(String[] args) {
+//        new Checkout();
+//    }
 }
